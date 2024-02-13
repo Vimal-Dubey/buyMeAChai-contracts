@@ -1,2 +1,13 @@
-# buyMeAChai-contracts
-"BuyMeAChai" is a decentralized application (DApp) built on the Ethereum blockchain, utilizing Solidity smart contracts for backend logic, React for the frontend interface, and Ether.js for interacting with the Ethereum network. The project enables users to support creators, artists using Ethereum cryptocurrency.
+# Sample Hardhat Project
+
+This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+
+Try running some of the following tasks:
+
+```shell
+npx hardhat help
+npx hardhat test
+REPORT_GAS=true npx hardhat test
+npx hardhat node
+npx hardhat run scripts/deploy.js
+```
